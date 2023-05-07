@@ -6,7 +6,7 @@ to generate additional text based on the selected content.
 The generated text can be used for a variety of purposes, such as 
 completing a thought, generating new ideas, or expanding on a concept.
 
-## Usage
+# Usage
 
 To use the plugin, simply select the desired text and press the keyboard shortcut
 ```alt+shift+i``` to open a dialog box to enter your instruction. The keyboard shortcut
